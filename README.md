@@ -1,6 +1,6 @@
 # graduados-icesi
 
-Mockup para el módulo de convenios y beneficios de la universidad ICESI hecho en flutter.
+Mockup para el módulo de convenios y beneficios de la universidad ICESI hecho en flutter de acuerdo a los convenios elicitados en la clase de Ingeniería de Software II.
 
 ## Getting Started
 
@@ -28,12 +28,33 @@ $ cd build/web && python -m http.server 8000
 
 ## Screenshots
 
+### Home
 ![Home](screenshots/home.png)
 
-![Convenios](screenshots/agreements.png)
+### Login
+![Login](screenshots/login.png)
 
-![Beneficios](screenshots/benefits.png)
+### Usuario regular
 
+#### Perfil
 ![Perfil](screenshots/profile.png)
 
-![Login](screenshots/login.png)
+#### Convenios
+![Convenios](screenshots/agreements.png)
+
+#### Beneficios
+![Beneficios](screenshots/benefits.png)
+
+### Usuario premium
+
+![Home Authenticated](screenshots/home-authenticated.png)
+
+#### Perfil
+![Perfil](screenshots/premium-profile.png)
+
+#### Convenios
+![Convenios](screenshots/premium-agreements.png)
+
+#### Beneficios
+![Beneficios](screenshots/premium-benefits.png)
+
