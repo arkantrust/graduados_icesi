@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:mockup/src/auth/cubit/auth_cubit.dart';
 
+import '/src/auth/cubit/auth_cubit.dart';
 import '../models/user.dart';
 import '/src/blocs/agreements/agreements_cubit.dart';
 import '/src/widgets/header.dart';

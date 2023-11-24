@@ -11,7 +11,7 @@ Mockup para el módulo de convenios y beneficios de la universidad ICESI hecho e
 ```bash
 
 # Clone this repository
-$ git clone www.github.com/andres-mateo/graduados-icesi.git
+$ git clone https://github.com/Arkantrust/graduados-icesi.git
 
 # Go into the repository
 $ cd graduados-icesi
@@ -25,3 +25,15 @@ $ flutter build web
 # Start an http server
 $ cd build/web && python -m http.server 8000
 ```
+
+## Screenshots
+
+![Home](screenshots/home.png)
+
+![Convenios](screenshots/agreements.png)
+
+![Beneficios](screenshots/benefits.png)
+
+![Perfil](screenshots/profile.png)
+
+![Login](screenshots/login.png)
